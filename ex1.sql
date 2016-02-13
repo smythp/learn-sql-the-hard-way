@@ -1,7 +1,7 @@
 create table person (
        id integer primary key,
-       first name text,
-       last name text,
+       first_name text,
+       last_name text,
        age integer,
        email text
 );
