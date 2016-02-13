@@ -1,5 +1,5 @@
 
-### LEarn SQL the Hard Way
+### Learn SQL the Hard Way
 
 Working through the book.
 
