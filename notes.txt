@@ -1,0 +1,4 @@
+CREATE TABLE table_name (id integer primary key, name text, age integer);
+DELETE FROM table WHERE blah
+INSERT INTO table (explicit fields) VALUES (values)
+SELECT columns FROM table
