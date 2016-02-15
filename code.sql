@@ -78,5 +78,5 @@ INSERT INTO person_pet (person_id,pet_id)
 INSERT INTO person_pet (person_id,pet_id)
        VALUES (2,7);
 
-ALTER TABLE person ADD COLUMN height INTEGER;
-ALTER TABLE person ADD COLUMN weight INTEGER;
+ALTER TABLE pet ADD COLUMN dob DATETIME;
+
